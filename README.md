@@ -1,6 +1,6 @@
-# TMF-School 2021 Block VII
+# TMF-School 2022 Block IV
 
-In diesem Repository werden die Jupyter Notebook-Dateien und aufbereitete Rohdaten für die Vorlesung und Übung zu Block VII der TMF-School 2021 bereitgestellt. Die Notebooks wurden mit dem R-Kernel erstellt.
+In diesem Repository werden die Jupyter Notebook-Dateien und aufbereitete Rohdaten für die Vorlesung und Übung zu Block VII der TMF-School 2022 bereitgestellt. Die Notebooks wurden mit dem R-Kernel erstellt.
 
 Die Notebooks können über die folgenden Wege ausgeführt werden:
 
